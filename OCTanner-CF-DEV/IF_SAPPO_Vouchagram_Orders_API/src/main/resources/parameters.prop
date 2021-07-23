@@ -1,0 +1,8 @@
+#
+#Fri Jul 23 05:57:15 UTC 2021
+HTTP\ Method=POST
+Vouchagram\ API\ Endpoint=http\://send.bulkgv.net/API/v1/voucher/send
+API\ Key\ as\ Secure\ Parameter=Vouchagram_Passphrase
+Vouchagram\ Key\ for\ Ciphering=Vouchagram_Passphrase
+Vochagram\ Credentials=Vouchagram_Auth
+Send\ Body=false
